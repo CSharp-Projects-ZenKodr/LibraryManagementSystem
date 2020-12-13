@@ -1,0 +1,14 @@
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.csprojAssemblyReference.cache
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.txt_Password.resources
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.Properties.Resources.resources
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.RegForm.resources
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.csproj.GenerateResource.cache
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.csproj.CoreCompileInputs.cache
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\bin\Debug\ProjectA3.exe.config
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\bin\Debug\ProjectA3.exe
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\bin\Debug\ProjectA3.pdb
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.exe
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.pdb
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\bin\Debug\Database.mdf
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\bin\Debug\Database_log.ldf
+C:\Users\livio\source\repos\ProjectA3\ProjectA3\obj\Debug\ProjectA3.CRUD.resources
